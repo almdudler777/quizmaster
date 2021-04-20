@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Delphi.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{0484AECB-9A1C-4DA5-967D-F95FD74382FF}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Delphi.Personality>
+		<Source>
+			<Source Name="MainSource">Client.dpr</Source>
+		</Source>
+		<FileVersion>
+			<FileVersion Name="Version">7.0</FileVersion>
+		</FileVersion>
+		<Compiler>
+			<Compiler Name="A">8</Compiler>
+			<Compiler Name="B">0</Compiler>
+			<Compiler Name="C">1</Compiler>
+			<Compiler Name="D">1</Compiler>
+			<Compiler Name="E">0</Compiler>
+			<Compiler Name="F">0</Compiler>
+			<Compiler Name="G">1</Compiler>
+			<Compiler Name="H">1</Compiler>
+			<Compiler Name="I">1</Compiler>
+			<Compiler Name="J">0</Compiler>
+			<Compiler Name="K">0</Compiler>
+			<Compiler Name="L">1</Compiler>
+			<Compiler Name="M">0</Compiler>
+			<Compiler Name="N">1</Compiler>
+			<Compiler Name="O">1</Compiler>
+			<Compiler Name="P">1</Compiler>
+			<Compiler Name="Q">0</Compiler>
+			<Compiler Name="R">0</Compiler>
+			<Compiler Name="S">0</Compiler>
+			<Compiler Name="T">0</Compiler>
+			<Compiler Name="U">0</Compiler>
+			<Compiler Name="V">1</Compiler>
+			<Compiler Name="W">0</Compiler>
+			<Compiler Name="X">1</Compiler>
+			<Compiler Name="Y">1</Compiler>
+			<Compiler Name="Z">1</Compiler>
+			<Compiler Name="ShowHints">True</Compiler>
+			<Compiler Name="ShowWarnings">True</Compiler>
+			<Compiler Name="UnitAliases">WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;</Compiler>
+			<Compiler Name="NamespacePrefix"></Compiler>
+			<Compiler Name="GenerateDocumentation">False</Compiler>
+			<Compiler Name="DefaultNamespace"></Compiler>
+			<Compiler Name="SymbolDeprecated">True</Compiler>
+			<Compiler Name="SymbolLibrary">True</Compiler>
+			<Compiler Name="SymbolPlatform">True</Compiler>
+			<Compiler Name="SymbolExperimental">True</Compiler>
+			<Compiler Name="UnitLibrary">True</Compiler>
+			<Compiler Name="UnitPlatform">True</Compiler>
+			<Compiler Name="UnitDeprecated">True</Compiler>
+			<Compiler Name="UnitExperimental">True</Compiler>
+			<Compiler Name="HResultCompat">True</Compiler>
+			<Compiler Name="HidingMember">True</Compiler>
+			<Compiler Name="HiddenVirtual">True</Compiler>
+			<Compiler Name="Garbage">True</Compiler>
+			<Compiler Name="BoundsError">True</Compiler>
+			<Compiler Name="ZeroNilCompat">True</Compiler>
+			<Compiler Name="StringConstTruncated">True</Compiler>
+			<Compiler Name="ForLoopVarVarPar">True</Compiler>
+			<Compiler Name="TypedConstVarPar">True</Compiler>
+			<Compiler Name="AsgToTypedConst">True</Compiler>
+			<Compiler Name="CaseLabelRange">True</Compiler>
+			<Compiler Name="ForVariable">True</Compiler>
+			<Compiler Name="ConstructingAbstract">True</Compiler>
+			<Compiler Name="ComparisonFalse">True</Compiler>
+			<Compiler Name="ComparisonTrue">True</Compiler>
+			<Compiler Name="ComparingSignedUnsigned">True</Compiler>
+			<Compiler Name="CombiningSignedUnsigned">True</Compiler>
+			<Compiler Name="UnsupportedConstruct">True</Compiler>
+			<Compiler Name="FileOpen">True</Compiler>
+			<Compiler Name="FileOpenUnitSrc">True</Compiler>
+			<Compiler Name="BadGlobalSymbol">True</Compiler>
+			<Compiler Name="DuplicateConstructorDestructor">True</Compiler>
+			<Compiler Name="InvalidDirective">True</Compiler>
+			<Compiler Name="PackageNoLink">True</Compiler>
+			<Compiler Name="PackageThreadVar">True</Compiler>
+			<Compiler Name="ImplicitImport">True</Compiler>
+			<Compiler Name="HPPEMITIgnored">True</Compiler>
+			<Compiler Name="NoRetVal">True</Compiler>
+			<Compiler Name="UseBeforeDef">True</Compiler>
+			<Compiler Name="ForLoopVarUndef">True</Compiler>
+			<Compiler Name="UnitNameMismatch">True</Compiler>
+			<Compiler Name="NoCFGFileFound">True</Compiler>
+			<Compiler Name="ImplicitVariants">True</Compiler>
+			<Compiler Name="UnicodeToLocale">True</Compiler>
+			<Compiler Name="LocaleToUnicode">True</Compiler>
+			<Compiler Name="ImagebaseMultiple">True</Compiler>
+			<Compiler Name="SuspiciousTypecast">True</Compiler>
+			<Compiler Name="PrivatePropAccessor">True</Compiler>
+			<Compiler Name="UnsafeType">False</Compiler>
+			<Compiler Name="UnsafeCode">False</Compiler>
+			<Compiler Name="UnsafeCast">False</Compiler>
+			<Compiler Name="OptionTruncated">True</Compiler>
+			<Compiler Name="WideCharReduced">True</Compiler>
+			<Compiler Name="DuplicatesIgnored">True</Compiler>
+			<Compiler Name="UnitInitSeq">True</Compiler>
+			<Compiler Name="LocalPInvoke">True</Compiler>
+			<Compiler Name="MessageDirective">True</Compiler>
+			<Compiler Name="CodePage"></Compiler>
+		</Compiler>
+		<Linker>
+			<Linker Name="MapFile">0</Linker>
+			<Linker Name="OutputObjs">0</Linker>
+			<Linker Name="GenerateHpps">False</Linker>
+			<Linker Name="ConsoleApp">1</Linker>
+			<Linker Name="DebugInfo">False</Linker>
+			<Linker Name="RemoteSymbols">False</Linker>
+			<Linker Name="GenerateDRC">False</Linker>
+			<Linker Name="MinStackSize">16384</Linker>
+			<Linker Name="MaxStackSize">1048576</Linker>
+			<Linker Name="ImageBase">4194304</Linker>
+			<Linker Name="ExeDescription"></Linker>
+		</Linker>
+		<Directories>
+			<Directories Name="OutputDir">bin</Directories>
+			<Directories Name="UnitOutputDir">dcu</Directories>
+			<Directories Name="PackageDLLOutputDir"></Directories>
+			<Directories Name="PackageDCPOutputDir"></Directories>
+			<Directories Name="SearchPath"></Directories>
+			<Directories Name="Packages">vclx;vcl;rtl;dbrtl;vcldb;adortl;dbxcds;dbexpress;xmlrtl;vclie;inet;inetdbbde;inetdbxpress;dclOfficeXP;soaprtl;dsnap;vclactnband;bdertl;vcldbx</Directories>
+			<Directories Name="Conditionals"></Directories>
+			<Directories Name="DebugSourceDirs"></Directories>
+			<Directories Name="UsePackages">False</Directories>
+		</Directories>
+		<Parameters>
+			<Parameters Name="RunParams"></Parameters>
+			<Parameters Name="HostApplication"></Parameters>
+			<Parameters Name="Launcher"></Parameters>
+			<Parameters Name="UseLauncher">False</Parameters>
+			<Parameters Name="DebugCWD"></Parameters>
+			<Parameters Name="Debug Symbols Search Path"></Parameters>
+			<Parameters Name="LoadAllSymbols">True</Parameters>
+			<Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+		</Parameters>
+		<Language>
+			<Language Name="ActiveLang"></Language>
+			<Language Name="ProjectLang">$00000000</Language>
+			<Language Name="RootDir"></Language>
+		</Language>
+		<VersionInfo>
+			<VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+			<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+			<VersionInfo Name="MajorVer">2</VersionInfo>
+			<VersionInfo Name="MinorVer">5</VersionInfo>
+			<VersionInfo Name="Release">11</VersionInfo>
+			<VersionInfo Name="Build">0</VersionInfo>
+			<VersionInfo Name="Debug">False</VersionInfo>
+			<VersionInfo Name="PreRelease">False</VersionInfo>
+			<VersionInfo Name="Special">False</VersionInfo>
+			<VersionInfo Name="Private">True</VersionInfo>
+			<VersionInfo Name="DLL">False</VersionInfo>
+			<VersionInfo Name="Locale">1033</VersionInfo>
+			<VersionInfo Name="CodePage">1252</VersionInfo>
+		</VersionInfo>
+		<VersionInfoKeys>
+			<VersionInfoKeys Name="CompanyName">selfcreators.net IT-Services</VersionInfoKeys>
+			<VersionInfoKeys Name="FileDescription">Quizmaster Client - Evaluation Copy for HP</VersionInfoKeys>
+			<VersionInfoKeys Name="FileVersion">2.5.11.0</VersionInfoKeys>
+			<VersionInfoKeys Name="InternalName">Quizmaster</VersionInfoKeys>
+			<VersionInfoKeys Name="LegalCopyright">selfcreators.net</VersionInfoKeys>
+			<VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
+			<VersionInfoKeys Name="OriginalFilename">Client.exe</VersionInfoKeys>
+			<VersionInfoKeys Name="ProductName"></VersionInfoKeys>
+			<VersionInfoKeys Name="ProductVersion">2.5.11</VersionInfoKeys>
+			<VersionInfoKeys Name="Comments"></VersionInfoKeys>
+			<VersionInfoKeys Name="Privates Build"></VersionInfoKeys>
+		</VersionInfoKeys>
+		<DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="CmdLine">'game'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="LOGONSERVER">'\\S41W0013'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="Path">'C:\Windows\Microsoft.NET\Framework\v1.1.4322\;C:\Program Files\Borland\BDS\4.0\Bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\ActivIdentity\ActivClient\;C:\Program Files\Common Files\Roxio Shared\DLLShared\;C:\Program Files\Common Files\Roxio Shared\10.0\DLLShared\;C:\Users\sahlmann\Documents\Borland Studio-Projekte\Bpl'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="RoxioCentral">'C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="ALLUSERSPROFILE">'C:\ProgramData'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="APPDATA">'C:\Users\sahlmann\AppData\Roaming'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="BDS">'c:\program files\borland\bds\4.0'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="BDSPROJECTSDIR">'C:\Users\sahlmann\Documents\Borland Studio-Projekte'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="CommonProgramFiles">'C:\Program Files\Common Files'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="COMPUTERNAME">'DSAHLMANN4'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="DEFLOGDIR">'C:\ProgramData\McAfee\DesktopProtection'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="DELPHI">'c:\program files\borland\bds\4.0'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="DFSTRACINGON">'FALSE'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="HOMEPATH">'\Users\sahlmann'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="LOCALAPPDATA">'C:\Users\sahlmann\AppData\Local'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="NUMBER_OF_PROCESSORS">'1'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="PATHEXT">'.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="PROCESSOR_IDENTIFIER">'x86 Family 6 Model 15 Stepping 13, GenuineIntel'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="PROCESSOR_LEVEL">'6'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="PROCESSOR_REVISION">'0f0d'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="ProgramData">'C:\ProgramData'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="ProgramFiles">'C:\Program Files'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="PUBLIC">'C:\Users\Public'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="TEMP">'C:\Users\sahlmann\AppData\Local\Temp'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="TMP">'C:\Users\sahlmann\AppData\Local\Temp'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="TRACE_FORMAT_SEARCH_PATH">'\\winseqfe\release\Windows6.0\lh_sp2rtm\6002.18005.090410-1830\x86fre\symbols.pri\TraceFormat'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="USERDNSDOMAIN">'EMEA.CPQCORP.NET'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="USERDOMAIN">'EMEA'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="USERNAME">'sahlmann'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="USERPROFILE">'C:\Users\sahlmann'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="VSEDEFLOGDIR">'C:\ProgramData\McAfee\DesktopProtection'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="PSModulePath">'C:\Windows\system32\WindowsPowerShell\v1.0\Modules\'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="SESSIONNAME">'Console'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="__COMPAT_LAYER">'Win2000 '</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="CYGWIN">'tty'</DebugEnvironmentVariables>
+			<DebugEnvironmentVariables Name="GTK_BASEPATH">'C:\Programme\GtkSharp\2.12\'</DebugEnvironmentVariables>
+		</DebugEnvironmentVariables>
+		<DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="ALLUSERSPROFILE">'C:\ProgramData'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="APPDATA">'C:\Users\sahlmann\AppData\Roaming'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="BDS">'c:\program files\borland\bds\4.0'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="BDSPROJECTSDIR">'C:\Users\sahlmann\Documents\Borland Studio-Projekte'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="CommonProgramFiles">'C:\Program Files\Common Files'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="COMPUTERNAME">'DSAHLMANN4'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="ComSpec">'C:\Windows\system32\cmd.exe'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="DEFLOGDIR">'C:\ProgramData\McAfee\DesktopProtection'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="DELPHI">'c:\program files\borland\bds\4.0'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="DFSTRACINGON">'FALSE'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="FP_NO_HOST_CHECK">'NO'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="HOMEDRIVE">'C:'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="HOMEPATH">'\Users\sahlmann'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="LOCALAPPDATA">'C:\Users\sahlmann\AppData\Local'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="LOGONSERVER">'\\S41W0013'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="NUMBER_OF_PROCESSORS">'1'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="OS">'Windows_NT'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="Path">'C:\Windows\Microsoft.NET\Framework\v1.1.4322\;C:\Program Files\Borland\BDS\4.0\Bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\ActivIdentity\ActivClient\;C:\Program Files\Common Files\Roxio Shared\DLLShared\;C:\Program Files\Common Files\Roxio Shared\10.0\DLLShared\;C:\Users\sahlmann\Documents\Borland Studio-Projekte\Bpl'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PATHEXT">'.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PROCESSOR_ARCHITECTURE">'x86'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PROCESSOR_IDENTIFIER">'x86 Family 6 Model 15 Stepping 13, GenuineIntel'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PROCESSOR_LEVEL">'6'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PROCESSOR_REVISION">'0f0d'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="ProgramData">'C:\ProgramData'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="ProgramFiles">'C:\Program Files'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PUBLIC">'C:\Users\Public'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="RoxioCentral">'C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="SESSIONNAME">'Console'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="SystemDrive">'C:'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="SystemRoot">'C:\Windows'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="TEMP">'C:\Users\sahlmann\AppData\Local\Temp'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="TMP">'C:\Users\sahlmann\AppData\Local\Temp'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="TRACE_FORMAT_SEARCH_PATH">'\\winseqfe\release\Windows6.0\lh_sp2rtm\6002.18005.090410-1830\x86fre\symbols.pri\TraceFormat'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="USERDNSDOMAIN">'EMEA.CPQCORP.NET'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="USERDOMAIN">'EMEA'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="USERNAME">'sahlmann'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="USERPROFILE">'C:\Users\sahlmann'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="VSEDEFLOGDIR">'C:\ProgramData\McAfee\DesktopProtection'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="windir">'C:\Windows'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PSModulePath">'C:\Windows\system32\WindowsPowerShell\v1.0\Modules\'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="__COMPAT_LAYER">'Win2000 '</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="CYGWIN">'tty'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="GTK_BASEPATH">'C:\Programme\GtkSharp\2.12\'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="CommonProgramFiles(x86)">'C:\Program Files (x86)\Common Files'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="CommonProgramW6432">'C:\Program Files\Common Files'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="PROCESSOR_ARCHITEW6432">'AMD64'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="ProgramFiles(x86)">'C:\Program Files (x86)'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="ProgramW6432">'C:\Program Files'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="windows_tracing_flags">'3'</DebugSysEnvironmentVariables>
+			<DebugSysEnvironmentVariables Name="windows_tracing_logfile">'C:\BVTBin\Tests\installpackage\csilogfile.log'</DebugSysEnvironmentVariables>
+		</DebugSysEnvironmentVariables>  <Excluded_Packages>
+      <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclib100.bpl">Borland InterBase Express Components</Excluded_Packages>
+      <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclIntraweb_80_100.bpl">Intraweb 8.0 Design Package for Borland Development Studio 2006</Excluded_Packages>
+      <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclIndyCore100.bpl">Indy 10 Core Design Time</Excluded_Packages>
+      <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclsmp100.bpl">Borland Sample Components</Excluded_Packages>
+      <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclIndyProtocols100.bpl">Indy 10 Protocols Design Time</Excluded_Packages>
+      <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dcltee100.bpl">TeeChart-Komponenten</Excluded_Packages>
+    </Excluded_Packages>
+  </Delphi.Personality>
+</BorlandProject>
